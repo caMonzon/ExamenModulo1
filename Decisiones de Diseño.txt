@@ -1,0 +1,6 @@
+- Implementé el comando Observer porque el deposito debe asegurar que la mercaderia está en el punto de consolidacion y para ello debe ser notificada por el robot.
+Entonces el robot debe notificar al deposito. El deposito está pendiente de la accion del robot.
+
+- Implementé el patron Command porque creo que las acciones que realizan los robots para evitar los obstaculos deben ser clases porque se le debe setear a cada
+robot que accion debe tomar si se encuentra con un obstaculo. 
+
